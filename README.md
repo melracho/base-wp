@@ -1,4 +1,4 @@
 base-wp
 =======
 
-Base WP theme
+Up to date: Feb. 21, 2014
